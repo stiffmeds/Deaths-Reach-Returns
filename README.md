@@ -6,8 +6,8 @@ Do you miss the loving thwomp that was the old Death's Reach sound? This mod bri
 
 Install [BepInEx](https://across-the-obelisk.thunderstore.io/package/BepInEx/BepInExPack_AcrossTheObelisk/).
 
-Download the latest release and put it in your BepInEx _plugins_ folder.
+Download the [latest release](https://github.com/stiffmeds/Deaths-Reach-Returns) and put "Death's Reach Returns.dll" and "Fear1.wav" in your BepInEx _plugins_ folder.
 
 ## Support
 
-Ping @stiffmeds in the #modding channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701).
+Raise a Github issue or ping @stiffmeds in the #modding channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701).
